@@ -1,0 +1,15 @@
+.no-margin{
+  margin:0px;
+}
+.no-padding{
+  padding:0px;
+}
+
+.fixed-section {
+    position: fixed; /* controls fixed carousel positioning here */
+    top: 50px;
+}
+body{
+  color: blue;
+  background-color: red;
+}
